@@ -1,0 +1,12 @@
+{
+	"name": "MightyCrawler",
+	"description": "Web crawler that finds text on webpages",
+	"author": "Toeler",
+	"version": "0.0.1",
+	"dependencies": {
+
+	},
+	"devDependencies": {
+
+	}
+}

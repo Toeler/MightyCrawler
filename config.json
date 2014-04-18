@@ -1,0 +1,10 @@
+{
+	"logger": {
+		"level": "info",
+		"toFile": true,
+		"colorize": true
+	},
+	"master": {
+		"workers": 4
+	}
+}

@@ -4,7 +4,8 @@
 	"author": "Toeler",
 	"version": "0.0.1",
 	"dependencies": {
-
+		"request": "2.34.*",
+		"winston": "0.7.*"
 	},
 	"devDependencies": {
 

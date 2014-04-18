@@ -1,0 +1,10 @@
+{
+	"root": "http://www.playtech.co.nz/",
+	"matchesExpected": 4,
+	"filter": [
+		"http://www.playtech.co.nz/"
+	],
+	"match": [
+		"href=\"http://woobox.com"
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"root": "http://www.mightyape.co.nz/",
+	"matchesExpected": 1,
+	"filter": [
+		"(?!.*bdm=.?)(http://)?www.mightyape.co.nz/",
+		[
+			"(?!.*/rate?)(?!.*/feedback)(?!.*/add-to-wishlist)(?!.*/submit-image)(?!.*/product-share)(?!.*/cheap-price)(?!.*/write-a-review)(?!.*/marketplace)(?!.*/reviews)(?!.*/images/.*)(?!.*bdm=.?)http://www.mightyape.co.nz/product/[^(PS4)]\\S*",
+			"http://www.mightyape.co.nz/Games/",
+			"http://www.mightyape.co.nz/Books/",
+			"http://www.mightyape.co.nz/DVDs-Blu-ray/",
+			"http://www.mightyape.co.nz/Toys",
+			"http://www.mightyape.co.nz/Clothing/",
+			"http://www.mightyape.co.nz/Home-Living/",
+			"http://www.mightyape.co.nz/Fitness-Nutrition/",
+			"http://www.mightyape.co.nz/Baby/"
+		]
+	],
+	"match": [
+		"id=\"product-hunt-image\""
+	]
+}
